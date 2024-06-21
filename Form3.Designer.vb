@@ -40,16 +40,16 @@ Partial Class Form3
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(331, 50)
+        Me.Label1.Location = New System.Drawing.Point(292, 77)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(194, 16)
+        Me.Label1.Size = New System.Drawing.Size(109, 16)
         Me.Label1.TabIndex = 0
-        Me.Label1.Text = "Slidely Task - View Submission"
+        Me.Label1.Text = "View Submission"
         '
         'Label2
         '
         Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(283, 96)
+        Me.Label2.Location = New System.Drawing.Point(200, 112)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(44, 16)
         Me.Label2.TabIndex = 1
@@ -58,7 +58,7 @@ Partial Class Form3
         'Label3
         '
         Me.Label3.AutoSize = True
-        Me.Label3.Location = New System.Drawing.Point(283, 141)
+        Me.Label3.Location = New System.Drawing.Point(200, 155)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(41, 16)
         Me.Label3.TabIndex = 2
@@ -67,25 +67,25 @@ Partial Class Form3
         'Label4
         '
         Me.Label4.AutoSize = True
-        Me.Label4.Location = New System.Drawing.Point(247, 181)
+        Me.Label4.Location = New System.Drawing.Point(178, 200)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(97, 16)
+        Me.Label4.Size = New System.Drawing.Size(91, 16)
         Me.Label4.TabIndex = 3
-        Me.Label4.Text = "Phone Number"
+        Me.Label4.Text = "Phonenumber"
         '
         'Label5
         '
         Me.Label5.AutoSize = True
-        Me.Label5.Location = New System.Drawing.Point(275, 222)
+        Me.Label5.Location = New System.Drawing.Point(187, 245)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(69, 16)
+        Me.Label5.Size = New System.Drawing.Size(72, 16)
         Me.Label5.TabIndex = 4
-        Me.Label5.Text = "GithubLink"
+        Me.Label5.Text = "Github Link"
         '
         'Label6
         '
         Me.Label6.AutoSize = True
-        Me.Label6.Location = New System.Drawing.Point(283, 265)
+        Me.Label6.Location = New System.Drawing.Point(200, 292)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(42, 16)
         Me.Label6.TabIndex = 5
@@ -93,55 +93,55 @@ Partial Class Form3
         '
         'TextBox1
         '
-        Me.TextBox1.Location = New System.Drawing.Point(384, 90)
+        Me.TextBox1.Location = New System.Drawing.Point(324, 109)
         Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(163, 22)
+        Me.TextBox1.Size = New System.Drawing.Size(132, 22)
         Me.TextBox1.TabIndex = 6
         '
         'TextBox2
         '
-        Me.TextBox2.Location = New System.Drawing.Point(384, 138)
+        Me.TextBox2.Location = New System.Drawing.Point(324, 155)
         Me.TextBox2.Name = "TextBox2"
-        Me.TextBox2.Size = New System.Drawing.Size(163, 22)
+        Me.TextBox2.Size = New System.Drawing.Size(132, 22)
         Me.TextBox2.TabIndex = 7
         '
         'TextBox3
         '
-        Me.TextBox3.Location = New System.Drawing.Point(384, 181)
+        Me.TextBox3.Location = New System.Drawing.Point(324, 200)
         Me.TextBox3.Name = "TextBox3"
-        Me.TextBox3.Size = New System.Drawing.Size(163, 22)
+        Me.TextBox3.Size = New System.Drawing.Size(132, 22)
         Me.TextBox3.TabIndex = 8
         '
         'TextBox4
         '
-        Me.TextBox4.Location = New System.Drawing.Point(384, 222)
+        Me.TextBox4.Location = New System.Drawing.Point(324, 239)
         Me.TextBox4.Name = "TextBox4"
-        Me.TextBox4.Size = New System.Drawing.Size(163, 22)
+        Me.TextBox4.Size = New System.Drawing.Size(132, 22)
         Me.TextBox4.TabIndex = 9
         '
         'TextBox5
         '
-        Me.TextBox5.Location = New System.Drawing.Point(384, 262)
+        Me.TextBox5.Location = New System.Drawing.Point(324, 286)
         Me.TextBox5.Name = "TextBox5"
-        Me.TextBox5.Size = New System.Drawing.Size(163, 22)
+        Me.TextBox5.Size = New System.Drawing.Size(132, 22)
         Me.TextBox5.TabIndex = 10
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(231, 314)
+        Me.Button1.Location = New System.Drawing.Point(181, 349)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(113, 36)
+        Me.Button1.Size = New System.Drawing.Size(104, 23)
         Me.Button1.TabIndex = 11
-        Me.Button1.Text = "Previous Button "
+        Me.Button1.Text = "prevbutton"
         Me.Button1.UseVisualStyleBackColor = True
         '
         'Button2
         '
-        Me.Button2.Location = New System.Drawing.Point(508, 314)
+        Me.Button2.Location = New System.Drawing.Point(435, 349)
         Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(125, 36)
+        Me.Button2.Size = New System.Drawing.Size(104, 23)
         Me.Button2.TabIndex = 12
-        Me.Button2.Text = "Next Button"
+        Me.Button2.Text = "currbutton"
         Me.Button2.UseVisualStyleBackColor = True
         '
         'Form3
