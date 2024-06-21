@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\navan\\source\\repos\\WindowsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{874D9748-192F-4888-82A5-28B5E05021F0}|WindowsApp1.vbproj|c:\\users\\navan\\source\\repos\\windowsapp1\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{874D9748-192F-4888-82A5-28B5E05021F0}|WindowsApp1.vbproj|solutionrelative:form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{874D9748-192F-4888-82A5-28B5E05021F0}|WindowsApp1.vbproj|c:\\users\\navan\\source\\repos\\windowsapp1\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{874D9748-192F-4888-82A5-28B5E05021F0}|WindowsApp1.vbproj|solutionrelative:form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874D9748-192F-4888-82A5-28B5E05021F0}|WindowsApp1.vbproj|c:\\users\\navan\\source\\repos\\windowsapp1\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{874D9748-192F-4888-82A5-28B5E05021F0}|WindowsApp1.vbproj|solutionrelative:form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874D9748-192F-4888-82A5-28B5E05021F0}|WindowsApp1.vbproj|c:\\users\\navan\\source\\repos\\windowsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{874D9748-192F-4888-82A5-28B5E05021F0}|WindowsApp1.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874D9748-192F-4888-82A5-28B5E05021F0}|WindowsApp1.vbproj|c:\\users\\navan\\source\\repos\\windowsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{874D9748-192F-4888-82A5-28B5E05021F0}|WindowsApp1.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{874D9748-192F-4888-82A5-28B5E05021F0}|WindowsApp1.vbproj|c:\\users\\navan\\source\\repos\\windowsapp1\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{874D9748-192F-4888-82A5-28B5E05021F0}|WindowsApp1.vbproj|solutionrelative:form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874D9748-192F-4888-82A5-28B5E05021F0}|WindowsApp1.vbproj|c:\\users\\navan\\source\\repos\\windowsapp1\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{874D9748-192F-4888-82A5-28B5E05021F0}|WindowsApp1.vbproj|solutionrelative:form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874D9748-192F-4888-82A5-28B5E05021F0}|WindowsApp1.vbproj|c:\\users\\navan\\source\\repos\\windowsapp1\\form3.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{874D9748-192F-4888-82A5-28B5E05021F0}|WindowsApp1.vbproj|solutionrelative:form3.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +38,91 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\navan\\source\\repos\\WindowsApp1\\Form2.vb",
+              "RelativeDocumentMoniker": "Form2.vb",
+              "ToolTip": "C:\\Users\\navan\\source\\repos\\WindowsApp1\\Form2.vb*",
+              "RelativeToolTip": "Form2.vb*",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T04:34:06.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\navan\\source\\repos\\WindowsApp1\\Form2.vb",
+              "RelativeDocumentMoniker": "Form2.vb",
+              "ToolTip": "C:\\Users\\navan\\source\\repos\\WindowsApp1\\Form2.vb [Design]*",
+              "RelativeToolTip": "Form2.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T04:30:28.508Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\navan\\source\\repos\\WindowsApp1\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\navan\\source\\repos\\WindowsApp1\\Form1.vb*",
+              "RelativeToolTip": "Form1.vb*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T04:28:36.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\navan\\source\\repos\\WindowsApp1\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\navan\\source\\repos\\WindowsApp1\\Form1.vb [Design]*",
+              "RelativeToolTip": "Form1.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T04:28:29.836Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form3.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\navan\\source\\repos\\WindowsApp1\\Form3.Designer.vb",
+              "RelativeDocumentMoniker": "Form3.Designer.vb",
+              "ToolTip": "C:\\Users\\navan\\source\\repos\\WindowsApp1\\Form3.Designer.vb",
+              "RelativeToolTip": "Form3.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T04:08:10.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Form3.vb",
               "DocumentMoniker": "C:\\Users\\navan\\source\\repos\\WindowsApp1\\Form3.vb",
               "RelativeDocumentMoniker": "Form3.vb",
               "ToolTip": "C:\\Users\\navan\\source\\repos\\WindowsApp1\\Form3.vb",
               "RelativeToolTip": "Form3.vb",
-              "ViewState": "AQIAADcAAAAAAAAAAAAQwEgAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-06-21T03:43:54.721Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Form3.vb [Design]",
               "DocumentMoniker": "C:\\Users\\navan\\source\\repos\\WindowsApp1\\Form3.vb",
               "RelativeDocumentMoniker": "Form3.vb",

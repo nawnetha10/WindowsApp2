@@ -132,7 +132,7 @@ Partial Class Form3
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(104, 23)
         Me.Button1.TabIndex = 11
-        Me.Button1.Text = "prevbutton"
+        Me.Button1.Text = "prev button"
         Me.Button1.UseVisualStyleBackColor = True
         '
         'Button2
@@ -141,7 +141,7 @@ Partial Class Form3
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(104, 23)
         Me.Button2.TabIndex = 12
-        Me.Button2.Text = "currbutton"
+        Me.Button2.Text = "Next button"
         Me.Button2.UseVisualStyleBackColor = True
         '
         'Form3

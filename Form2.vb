@@ -72,11 +72,16 @@ Public Class Form2
         Public Property StopwatchTime As String
     End Class
 
-    Private Sub TextBox1_TextChanged(sender As Object, e As EventArgs) Handles TextBox1.TextChanged
-
+    Private Sub CreateSubmissionForm_KeyDown(sender As Object, e As KeyEventArgs) Handles Me.KeyDown
+        If e.Control AndAlso e.KeyCode = Keys.S Then
+            Submit.PerformClick()
+        ElseIf e.Control AndAlso e.KeyCode = Keys.T Then
+            ' Toggle action (replace this with your actual toggle logic)
+            BtnStartPause.PerformClick()
+        End If
     End Sub
 
-    Private Sub TextBox3_TextChanged(sender As Object, e As EventArgs) Handles TextBox3.TextChanged
-
+    Private Sub CreateSubmissionForm_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        Me.KeyPreview = True
     End Sub
 End Class

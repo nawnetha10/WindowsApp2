@@ -77,4 +77,11 @@ Public Class Form3
         Public Property GithubLink As String
         Public Property StopwatchTime As String
     End Class
+    Private Sub ViewSubmissionsForm_KeyDown(sender As Object, e As KeyEventArgs) Handles MyBase.KeyDown
+        If e.Control AndAlso e.KeyCode = Keys.P Then
+            Button1.PerformClick()
+        ElseIf e.Control AndAlso e.KeyCode = Keys.N Then
+            Button2.PerformClick()
+        End If
+    End Sub
 End Class
